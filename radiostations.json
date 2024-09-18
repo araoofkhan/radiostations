@@ -1,0 +1,23 @@
+[
+  {
+    "name": "BBC Radio 1",
+    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+    "description": "The UK's top pop station.",
+    "genre": "Pop",
+    "country": "UK"
+  },
+  {
+    "name": "Radio France Internationale",
+    "url": "http://live02.rfi.fr/rfien.mp3",
+    "description": "News and talk from France.",
+    "genre": "Talk",
+    "country": "France"
+  },
+  {
+    "name": "NPR News",
+    "url": "http://npr-ice.streamguys.org/live.mp3",
+    "description": "Public radio news from NPR.",
+    "genre": "News",
+    "country": "USA"
+  }
+]
