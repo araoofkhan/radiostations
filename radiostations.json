@@ -1,7 +1,7 @@
 [
   {
-    "name": "BBC Radio 1",
-    "url": "http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p",
+    "name": "103 FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
     "description": "The UK's top pop station.",
     "genre": "Pop",
     "country": "UK"
