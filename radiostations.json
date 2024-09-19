@@ -2,22 +2,22 @@
   {
     "name": "ABC NEWS",
     "url": "https://live-radio01.mediahubaustralia.com/PBW/mp3/",
-    "description": "The UK's top pop station.",
-    "genre": "Pop",
+    "description": "The UK's top news station.",
+    "genre": "News",
     "country": "UK"
   },
   {
-    "name": "LBC NEWS",
-    "url": "http://ice-sov.musicradio.com/LBC1152MP3",
-    "description": "News and talk from France.",
-    "genre": "Talk",
-    "country": "France"
+    "name": "Radio Pakistan Toronto",
+    "url": "https://s3.radio.co/s3b10a57ef/listen",
+    "description": "News and talk from Pakistan.",
+    "genre": "General",
+    "country": "Pakistan"
   },
   {
-    "name": "Northwest News Radio",
-    "url": "https://14003.live.streamtheworld.com/KNWNAM.mp33",
-    "description": "Public radio news from NPR.",
-    "genre": "News",
+    "name": "talkSPORT",
+    "url": "https://radio.talksport.com/stream",
+    "description": "What Real Sport Sounds Like.",
+    "genre": "Sports",
     "country": "USA"
   }
 ]
